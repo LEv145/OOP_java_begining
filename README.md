@@ -5,7 +5,7 @@
 ```
 javac -sourcepath ./src -d bin C:\JAVA\class\src\com\company\Main.java
 ```
-(Ps.: Вместо C:\JAVA\class\src\com\company\Main.java - свой путь)
+(Ps: Вместо C:\JAVA\class\src\com\company\Main.java - свой путь)
 
 Запуск:
 ```
