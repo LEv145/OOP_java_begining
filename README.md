@@ -11,3 +11,6 @@ javac -sourcepath ./src -d bin C:\JAVA\class\src\com\company\Main.java
 ```
 java -classpath ./bin com.company.Main
 ```
+
+# Donate
+https://money.yandex.ru/to/410015858804944/0
